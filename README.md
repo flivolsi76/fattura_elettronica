@@ -14,4 +14,4 @@ Hai bisogno di informazioni? scrivimi a flivolsi76 (et) gmail.com
 
 Licenza
 
-The MIT License (MIT). License File
+The MIT License (MIT). <a href="https://github.com/flivolsi76/fattura_elettronica/blob/main/license.txt">File Licenza</a>
