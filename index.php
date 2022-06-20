@@ -182,7 +182,7 @@ $dom->preserveWhiteSpace = false;
 $dom->formatOutput = true;
 $dom->loadXML($fatturaElettronica->getXML());
 libxml_use_internal_errors(true);
-if (!$dom->schemaValidate("Schema_del_file_xml_FatturaPA_versione_1.2.1.xsd")) {
+if (!$dom->schemaValidate("xsd/Schema_del_file_xml_FatturaPA_versione_1.2.1.xsd")) {
     //print '<b>DOMDocument::schemaValidate() Generated Errors!</b>';
     $errors = libxml_get_errors();
     _pre($errors);
