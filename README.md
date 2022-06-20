@@ -1,6 +1,6 @@
 Entità per la creazione di una semplice Fattura Elettronica tramite PHP.
 
-in index.php cè un esempio esplicativo inclusa di validazione secondo l'ultimo schema dell'agenzia delle entrate.
+in index.php cè un esempio esplicativo inclusa di validazione secondo schema (2021) dell'agenzia delle entrate.
 
 Seguirà una versione con Adapter.
 
