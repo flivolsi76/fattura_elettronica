@@ -1,4 +1,4 @@
-Entità per creazione Fatturazione Elettronica tramite PHP
+Entità per creazione di una semplice Fattura Elettronica tramite PHP.
 
 in index.php cè un esempio esplicativo inclusa di validazione secondo l'ultimo schema dell'agenzia delle entrate.
 
