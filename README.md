@@ -1,3 +1,5 @@
+<h2>Fatturazione Elettronica</h2>
+
 Entità per la creazione di una semplice Fattura Elettronica tramite PHP.
 
 in index.php cè un esempio esplicativo inclusa di validazione secondo schema (2021) dell'agenzia delle entrate.
@@ -10,7 +12,7 @@ https://www.paypal.com/paypalme/flgeek
 
 Hai bisogno di informazioni? scrivimi a flivolsi76 (et) gmail.com
 
-<hr>
+<br>
 
 <h2>Licenza</h2>
 
