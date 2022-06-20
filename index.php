@@ -1,10 +1,8 @@
 <?php
 /**
- * Fattura Elettronica 1.0 by Francesco Li Volsi info@myherosoft.com
+ * Fattura Elettronica 1.0 by Francesco Li Volsi flivolsi76 (et) gmail.com
  */
-
-
-require "Entities/autoload.php";
+require "autoload.php";
 
 /**
  * @param SimpleXMLElement $xml
