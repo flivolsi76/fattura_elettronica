@@ -9,3 +9,9 @@ Se ti è stato utile offrimi un caffè
 https://www.paypal.com/paypalme/flgeek
 
 Hai bisogno di informazioni? scrivimi a flivolsi76 (et) gmail.com
+
+<hr>
+
+Licenza
+
+The MIT License (MIT). License File
