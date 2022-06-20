@@ -2,6 +2,8 @@ Entità per la creazione di una semplice Fattura Elettronica tramite PHP.
 
 in index.php cè un esempio esplicativo inclusa di validazione secondo l'ultimo schema dell'agenzia delle entrate.
 
+Seguirà una versione con Adapter.
+
 Se ti è stato utile offrimi un caffè
 
 https://www.paypal.com/paypalme/flgeek
